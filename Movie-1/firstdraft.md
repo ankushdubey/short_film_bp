@@ -8,7 +8,9 @@ Editor -
      Character           |   	Character's Name  	|		Actor
 				                             
 protagonist
-protagonists_brother 						
+
+protagonists_brother
+
 
 #Scene-1
 
@@ -20,4 +22,4 @@ protagonists_brother is sitting on a tree, with tears in his eyes, looking at hi
 
 >Location - Hostel 10.
 
-protagonist is walking upstairs with his luggage 
+protagonist is walking upstairs with his luggage to his room(Koi room number socho acha sa)
