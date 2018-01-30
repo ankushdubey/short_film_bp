@@ -6,9 +6,10 @@ Editor -
 #Cast
 
      Character           |   	Character's Name  	|		Actor
-				                             
-protagonist				 |							|
-protagonists_brother	 |							|
+				        
+protagonist
+
+protagonists_brother 						
 
 #Scene-1
 
