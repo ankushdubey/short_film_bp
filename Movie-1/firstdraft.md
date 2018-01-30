@@ -22,4 +22,6 @@ protagonists_brother is sitting on a tree, with tears in his eyes, looking at hi
 
 >Location - Hostel 10.
 
-protagonist is walking upstairs with his luggage to his room_(Koi room number socho acha sa)_
+protagonist is walking upstairs with his luggage to his room where he meets his roommate. Talks to him a bit. Tells him about his JEE rank which was quite good and came to this college just because his brother was here.
+
+#Scene-3
