@@ -7,12 +7,10 @@ Director -
 Editor - 
 
 #Cast
-
-     Character           |   	Character's Name  	|		Actor
 				        
-protagonist
+protagonist - 
 
-protagonists_brother 						
+protagonists_brother -					
 
 #Scene-1
 
